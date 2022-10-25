@@ -1,0 +1,31 @@
+html {
+    background-color: blueviolet;
+    
+}
+* {
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body {
+    display: flex;
+    justify-content:space-around;
+}
+
+div {
+    width: 700px;
+    height: 700px;
+    background-color: #f7a102;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+    text-align-last: justify;
+    font-size: 22px;
+        font-family: 'Franklin Gothic Medium'; color: rgb(214, 211, 211);
+
+}
